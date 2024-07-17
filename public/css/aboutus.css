@@ -1,0 +1,9 @@
+.contact-link:hover {
+    background-color: #f0f0f0;
+}
+
+.contact-link:hover svg {
+    /* transform: scale(1.2); */
+    transform: rotate(15deg);
+    transition: transform 0.3s ease-in-out;
+}
